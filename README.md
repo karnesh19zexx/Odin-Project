@@ -2,6 +2,7 @@
 Starting the ODIN PROJECT Journey
 
 **Introduction**
+
 The Odin Project is an open-source community dedicated to providing the best information sources to take you from zero to a full-stack developer.
 
 In this unit, we’ll learn about how the web works and start thinking about the basics of computer and web programming.
@@ -15,12 +16,14 @@ By the end of this unit, you should not only understand how the web works but al
 This section intentionally covers a very broad range of topics. It’s silly to go diving straight into server-side programming without having a context for what it is and why it’s useful (and why you should learn it!).
 
 **Lesson overview**
+
 This section contains a general overview of topics that you will learn in this lesson.
 
 Understand how The Odin Project’s curriculum works.
 Understand how the Foundations course works.
 
 **How it works**
+
 This curriculum works by aggregating the best content from across the internet to teach a specific topic. In each lesson, we’ll introduce the topic and try to provide some useful context before pointing you to external resources made by others.
 
 Most lessons will contain questions that you should be able to answer before moving on. Some lessons will include exercises for you to complete. In addition, we provide several projects throughout the curriculum to help you grow your understanding by actually building things.
