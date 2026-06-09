@@ -1,0 +1,20 @@
+1. cd - change directory
+
+note: just the cd goes into/to the home directoy
+
+2. cd .. - to previous directory
+
+3. mkdir - creates folder/ directory
+
+4. touch example.txt - creates the file with the name we give
+
+5. rm example.txt - removes file
+
+6. rmdir "directory name" - removes the directory
+
+7. pwd - prints the name of current working directory
+
+8. ls - lists the files & folders in the current directory.
+
+//all these is done using the terminal and vim. 
+ 

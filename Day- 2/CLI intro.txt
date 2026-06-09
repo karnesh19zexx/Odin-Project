@@ -1,0 +1,5 @@
+INTRO / TIPS
+
+Tip 1: TAB completion:
+
+you need to learn about tab completion. Seriously, this tip will save you so much time and frustration. Let’s say that you’re in the command line and need to move into a distant folder, something like ~/Documents/Odin-Project/foundations/javascript/calculator/. That’s a long command to type out, and everything needs to be exactly right in order for it to work. Nope, we’re way too lazy for that! Basically, by hitting Tab, the command line will automatically complete commands that you’ve started typing once there’s only one option. For example, it’s pretty common to have a Documents folder and a Downloads folder in the home directory. If you’ve typed cd D and then press Tab, the command line will let you know that it’s not sure which one you want by showing you the different options that match what you’ve typed so far
