@@ -1,0 +1,12 @@
+Creating an HTML file
+To demonstrate an HTML boilerplate, we first need an HTML file to work with.
+
+Create a new folder on your computer and name it html-boilerplate. Within that folder create a new file and name it index.html.
+
+You’re probably already familiar with a lot of different types of files, for example doc, pdf, and image files.
+
+To let the computer know we want to create an HTML file, we need to append the filename with the .html extension, as we have done when creating the index.html file.
+
+It is worth noting that we named our HTML file index. We should always name the HTML file that will contain the homepage of our website index.html. This is because web servers will by default look for an index.html page when users land on our websites – and not having one will cause big problems.
+
+
