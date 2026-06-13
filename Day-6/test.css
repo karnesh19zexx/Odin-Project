@@ -1,14 +1,17 @@
 .flex-container{
     display: flex;
+    flex-direction: row;
+    height: 100px;
+    justify-content:sp;
+    align-items: flex-end;
+    gap: 8px;
 }
 
 .flex-container div{
     background-color: rgb(223, 195, 151);
     border:solid 4px brown;
-    height: 100px;
-    flex: 1;
+    height: 50px;
+    width: 50px;
+    align-self: center;
 }
 
-.flex-container .two{
-    flex: 1;
-}
