@@ -1,0 +1,21 @@
+.container{
+    background-color: rgb(48, 101, 233);
+    border: 2px solid red;
+    height: 50px;
+    width: 400px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    align-items:center ;
+
+}
+
+.cent{
+    border: solid rgb(166, 15, 15) 5px;
+    background-color: palevioletred;
+    text-align: center;
+    height: 80px;
+    width:90px;
+
+}
+
