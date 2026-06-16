@@ -1,0 +1,40 @@
+body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  background: #aaa;
+  color: #333;
+  /* I'll give you this one for free */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.close{
+    background-color: gainsboro;
+    border-radius: 20px;
+    border: none;
+    display: flex;
+    
+
+}
+
+.cont{
+    color: white;
+    background-color: rgb(0, 128, 255);
+    border: none;
+    border-radius: 4px;
+    height: 25px;
+}
+
+.canc{
+    color: rgb(0, 128, 255);
+    background-color: white;
+    border: 1px;
+    border-style:groove;
+    border-radius: 4px;
+    border-color:  rgb(0, 128, 255);
+    height: 25px;
+
+}
