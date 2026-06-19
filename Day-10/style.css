@@ -3,27 +3,35 @@ body{
     margin:auto;
     flex-wrap: wrap;
     flex-shrink: 1;
+    
 }
 
 .header{
-    padding-left: 30px;
+    display: flex;
+    padding-top: 20px;
+    padding-left: 210px;
     background-color: #1f2937;
     color: white;
-    height: 350px;
+    height: 560px;
+    justify-content: flex-start;
+    justify-content: space-between;
 }
 
 .top-mid{
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    padding-left: 30px;
+   
 
 }
 
 .head-txt{
     display: flex;
+    padding-top: 110px;
+    width: 550px;
+    color:white;
+    font-size: 60px;
     font-weight: 900;
-    width: 250px;
 }
 
 .placeholder{
@@ -51,22 +59,11 @@ body{
     font-weight: 900;
     
 }
-.head-txt{
-    display: flex;
-    font-size: 30px;
-}
-
-
-
-.tr-links{
-    display: flex;
-    justify-content:flex-end;
-    align-items:flex-start;
-}
 
 a{
     color: white;
     text-decoration: none;
+   
 }
 
 .body1{
