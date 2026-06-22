@@ -8,10 +8,10 @@ body{
 
 .header{
     padding-top: 20px;
-    padding-left: 210px;
+    padding-left: 80px;
     background-color: #1f2937;
     color: white;
-    height: 560px;
+    height: 440px;
     justify-content: flex-start;
     justify-content: space-between;
     margin:auto;
@@ -19,8 +19,9 @@ body{
 
 .top-mid{
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
+    padding: 80px 0;
    
 
 }
@@ -36,9 +37,8 @@ body{
 
 .placeholder{
     display: flex;
-    justify-content: center;
     align-items: center;
-    margin-left: 450px;
+    justify-content: center;
     background-color:#6a6b6c; 
     width: 250px;
     height: 150px;
@@ -48,7 +48,7 @@ body{
 .signup{
     
     display: flex;
-    align-items: flex-end;
+    align-items: flex-start;
     justify-content: center;
 }
 
@@ -67,16 +67,19 @@ a{
 }
 
 .body1{
-    display: flex;
     background-color: white;
     color: black;
+    height: 440px;
 }
 
 .boxes{
     display: flex;
-    gap: 20px;
     background-color:white;
     padding-top: 40px;
+    justify-content: center;
+    gap: 85px;
+    
+    
 }
 
 .item{
@@ -87,13 +90,24 @@ a{
     text-align: center;
 }
 
+.b-head{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-weight: 900;
+    font-size: 30px;
+
+
+}
+
 .box{
     background-color: white;
     color: #1f2937;
-    height: 120px;
-    border: solid 1px rgb(37, 106, 255);
-    width: 120px;
-    border-radius: 5px;
+    height: 135px;
+    border: solid 4px rgb(37, 106, 255);
+    width: 135px;
+    border-radius: 8px;
+
 }
 
 .subtext{
@@ -104,44 +118,40 @@ a{
     display: flex;
     background-color: #e5e7eb;
     color: black;
-    height: 150px;
+    height: 280px;
     align-items: center;
     padding-top: 40px;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .quote{
     display: flex;
-    max-width: 340px;
+    max-width: 640px;
+    width:630px;
+    font-size: 30px;
+    font-weight: lighter;
 }
 
-.person{
+.person,#auth{
     font-weight: 900;
     display: flex;
     flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 700px;
 }
 
 .body3{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
     background-color: rgb(37, 106, 255);
     color: white;
     max-width: 800px;
     border-radius: 6px;
-    padding-left: 60px;
-    margin:auto;
+    margin: 30px 30px 30px 200px ;
 }
 
-.b3-head{
-    display: flex;
-    justify-content: flex-start;
-}
 
-.b3-sub{
-    display: flex;
-    justify-content: flex-start;
-    
-}
 
 .b3-signup{
     display: flex;
